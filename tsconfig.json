@@ -46,3 +46,5 @@
     "**/*.spec.ts"                                     /* Exclude test files. */
   ]
 }
+
+test
